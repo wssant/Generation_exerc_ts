@@ -1,4 +1,4 @@
-import { Stack } from "./stack";
+import { Stack } from "../stack";
 import leia = require('readline-sync')
 
 const pilha = new Stack<string>()
